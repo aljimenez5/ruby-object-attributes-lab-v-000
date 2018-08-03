@@ -13,6 +13,6 @@ def dog_name
   @dog_name
 end
 
-def dog_
+def dog_breed= ()
 
 end
