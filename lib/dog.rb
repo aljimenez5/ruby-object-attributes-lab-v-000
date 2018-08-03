@@ -18,6 +18,8 @@ def dog_breed= (dog_breed)
 end
 
 def dog_breed
+  @dog_breed
+end
   
 
 end
