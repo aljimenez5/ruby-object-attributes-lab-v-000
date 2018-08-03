@@ -8,8 +8,8 @@ def name
   @name
 end
 
-def name=(dog_name)
-  @name
+def name=(new_dog_name)
+  @name = new_dog_name
 end
 
   
